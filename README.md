@@ -1,7 +1,7 @@
 # Jair Soares
 [![Linkedin Badge](https://img.shields.io/badge/-JairSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jair-de-oliveira-soares-512099106/)](https://www.linkedin.com/in/jair-de-oliveira-soares-512099106/)
 [![Gmail Badge](https://img.shields.io/badge/-javaosoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javaosoares@gmail.com)](mailto:javaosoares@gmail.com)
-[![Curriculo Badge](https://img.shields.io/badge/-Curriculo-white?style=flat-square&logo=Curriculo&logoColor=white&link=https://https://javasoares.github.io/)](https://javasoares.github.io/)
+[![Curriculo Badge](https://img.shields.io/badge/-Curriculo-green?style=flat-square&logo=Curriculo&logoColor=white&link=https://https://javasoares.github.io/)](https://javasoares.github.io/)
 
 <hr>
 
