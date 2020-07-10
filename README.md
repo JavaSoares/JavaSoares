@@ -8,13 +8,13 @@
 <blockquote align="center">“Learn more and share knowledge !!!”</blockquote>
 
 ## Hello world! 
-I'm Jair Soares, 
+### I'm Jair Soares, 
 I'm a Cobol programmer, and student taking advantage of every opportunity that comes to acquire new knowledge to soon put it into practice in a role as a junior dev. 
 
 - 🔓  I’m currently unlocking some knowledge on JavaScript, HTML, CSS, that means I´m a student in process of turning into a junior dev.
 - 🚀 I’m currently enrolled on Launchbase Bootcamp from Rocketseat 
-- ⚡ Studing Technologies: Javascript, HTML, CSS.
-- 😍 Love coding, dogs, and hamburgers
+- ⚡ Studing Technologies: Javascript, HTML, CSS and Python.
+- 😍 Love coding, dogs, and hamburgers.
 <br><br>
 <hr>
 
