@@ -5,8 +5,6 @@
 
 <hr>
 
-![github](https://user-images.githubusercontent.com/64690628/87337775-5ee35600-c51a-11ea-8ac2-83bc0e0b20fa.png)
-
 <blockquote align="center">“Learn more and share knowledge !!!”</blockquote>
 
 ## Hello world 😎 !!!
@@ -29,3 +27,5 @@ I'm a Cobol programmer, and student taking advantage of every opportunity that c
 - [ ] junior Dev 
 
 Desenvolvido 😎 por Jair de Oliveira Soares
+
+![github](https://user-images.githubusercontent.com/64690628/87337775-5ee35600-c51a-11ea-8ac2-83bc0e0b20fa.png)
