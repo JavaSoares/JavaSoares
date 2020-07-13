@@ -20,8 +20,8 @@ I'm a Cobol programmer, and student taking advantage of every opportunity that c
 
 # Goals
 
-- Learn HTML
-- Learn CSS
+- [x] Learn HTML
+- [x] Learn CSS
 - Learn Javascript
 - Learn Python
 - junior Dev 
