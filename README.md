@@ -22,8 +22,8 @@ I'm a Cobol programmer, and student taking advantage of every opportunity that c
 
 - [x] Learn HTML
 - [x] Learn CSS
-- Learn Javascript
-- Learn Python
-- junior Dev 
+- [x] Learn Javascript
+- [x] Learn Python
+- [ ] junior Dev 
 
 Desenvolvido 😎 por Jair de Oliveira Soares
