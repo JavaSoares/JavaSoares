@@ -7,7 +7,7 @@
 
 <blockquote align="center">“Learn more and share knowledge !!!”</blockquote>
 
-## Hello world 🙋‍ !!!
+## Hello world 😎 !!!
 ### I'm Jair Soares.
 I'm a Cobol programmer, and student taking advantage of every opportunity that comes to acquire new knowledge to soon put it into practice in a role as a junior dev. 
 
