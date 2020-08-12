@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jair-de-oliveira-soares-512099106/)](https://www.linkedin.com/in/jair-de-oliveira-soares-512099106/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:javaosoares@gmail.com)](mailto:javaosoares@gmail.com)
 [![My Curriculum Badge](https://img.shields.io/badge/-Curriculo-green?style=flat-square&logo=MyCurriculum&logoColor=white&link=https://https://javasoares.github.io/)](https://javasoares.github.io/)
-[![Rocketseat](https://img.shields.io/badge/-Curriculo-purple?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/jair-de-oliveira-soares-1588104360https://app.rocketseat.com.br/me/jair-de-oliveira-soares-1588104360)](https://app.rocketseat.com.br/me/jair-de-oliveira-soares-1588104360)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat-purple?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/jair-de-oliveira-soares-1588104360https://app.rocketseat.com.br/me/jair-de-oliveira-soares-1588104360)](https://app.rocketseat.com.br/me/jair-de-oliveira-soares-1588104360)
 
 <hr>
 
